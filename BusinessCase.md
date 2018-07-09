@@ -1,7 +1,8 @@
 ### Classification
-| Department/Team: | --- | Initiative#: | --- |
-| Title/description: | --- | Date Raised: | --- |
-| Sponsor: | --- | Document Version: | --- |
+| Department/Team: | example | Initiative#: | example |
+| --- | --- | --- | --- |
+| Title/description: | example | Date Raised: | example |
+| Sponsor: | example | Document Version: | example |
 
 ### Business Case
 #### Opportunity
