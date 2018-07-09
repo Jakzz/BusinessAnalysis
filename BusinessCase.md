@@ -1,11 +1,7 @@
 ### Classification
-Department/Team: Xxxx
-Title/description: Xxxx
-Sponsor: Xxxx
-Owner: Xxxx
-Initiative#: Xxxx
-Date Raised: Xxxx
-Document Version:: Xxxx
+| Department/Team: | --- | Initiative#: | --- |
+| Title/description: | --- | Date Raised: | --- |
+| Sponsor: | --- | Document Version: | --- |
 
 ### Business Case
 #### Opportunity
@@ -14,6 +10,7 @@ description
 description
 #### Benefits
 | Benefit | Measurements | Target/Goal | Target Date |
+| --- | --- | --- | --- |
 | --- | --- | --- | --- |
 
 #### Critical Success Factors
