@@ -1,7 +1,7 @@
 ## Classification
-| Department/Team: | example | Initiative#: | example |
+| Title/description: | example | Initiative#: | example |
 | --- | --- | --- | --- |
-| Title/description: | example | Date Raised: | example |
+| Department/Team: | example | Date Raised: | example |
 | Sponsor: | example | Document Version: | example |
 
 ## Business Case
@@ -48,7 +48,7 @@ description
 | --- | #Days (effort) | Est.$ | #Proposed Sprint/s | Comments |
 | --- | --- | --- | --- | --- |
 | Requirements| --- | $--- | --- | --- |
-| Design | --- | --- | $--- | --- |
+| Design | --- | $--- | --- | --- |
 | Backend Dev | --- | $--- | --- | --- |
 | Frontend Dev | --- | $--- | --- | --- |
 | Data and Analytics | --- | $--- | --- | --- |
