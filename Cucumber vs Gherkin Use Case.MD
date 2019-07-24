@@ -1,5 +1,5 @@
 
-##Cucumber
+## Cucumber
 
 | Part | Concept | Example |
 | --- |  --- | --- |
@@ -12,7 +12,7 @@
 | - Then |  result | Sees 'Hello [name]' welcome message  |
 
 
-##Gherkin
+## Gherkin
 Gherkin is an expansion of the Cucumber use case rules
 
 - Feature (now includes description beyond simple title)
