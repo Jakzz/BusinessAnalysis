@@ -15,15 +15,16 @@
 ##Gherkin
 Gherkin is an expansion of the Cucumber use case rules
 
-*Feature (now includes description beyond simple title)
-*Rule (as of Gherkin 6)
-*Example (or Scenario)
-*Given, When, Then, And, But (steps)
-*Background
-*Scenario Outline (or Scenario Template)
-*Examples
+- Feature (now includes description beyond simple title)
+- Rule (as of Gherkin 6)
+- Example (or Scenario)
+- Given, When, Then, And, But (steps)
+- Background
+- Scenario Outline (or Scenario Template)
+- Examples
+
 There are a few secondary keywords as well:
-*""" (Doc Strings)
-*| (Data Tables)
-*@ (Tags)
-*# (Comments)
+- """ (Doc Strings)
+- | (Data Tables)
+- @ (Tags)
+- `#` (Comments)
